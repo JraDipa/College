@@ -1,0 +1,55 @@
+.bitcoin {
+    width: auto;
+    height: 500px;
+    padding: 100px;
+}
+
+.document {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: greenyellow;
+    padding: auto;
+    width: 1080px;
+    height: 4000px;
+    letter-spacing: 2px;
+    line-height: 31px;
+    background-color: black;
+    padding: 40px;
+}
+
+body {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-color: #1f1f1f;
+}
+
+.chart {
+    padding: 40px;
+    width: 920px;
+    height: auto;
+}
+
+.tombol {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.doge {
+    width: 1080px;
+    height: auto;
+}
